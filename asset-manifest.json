@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/maulik-portfolio/static/css/main.81b60bd4.css",
-    "main.js": "/maulik-portfolio/static/js/main.d4eeae2b.js",
+    "main.js": "/maulik-portfolio/static/js/main.c2a34957.js",
     "index.html": "/maulik-portfolio/index.html",
     "main.81b60bd4.css.map": "/maulik-portfolio/static/css/main.81b60bd4.css.map",
-    "main.d4eeae2b.js.map": "/maulik-portfolio/static/js/main.d4eeae2b.js.map"
+    "main.c2a34957.js.map": "/maulik-portfolio/static/js/main.c2a34957.js.map"
   },
   "entrypoints": [
     "static/css/main.81b60bd4.css",
-    "static/js/main.d4eeae2b.js"
+    "static/js/main.c2a34957.js"
   ]
 }
